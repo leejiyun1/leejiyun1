@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👋  안녕하세요. 이지윤입니다.
 
+현재는 개발자가 되기 위해서 공부를 하고 있습니다.
+2025.02.27 ~ 현재 진행중.
+
+## 학습과정
+간단한 리녹스 명령어.
+03.06 ~ 현재 Python 진행중.
 <!--
 **leejiyun1/leejiyun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
