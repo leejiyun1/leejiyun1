@@ -5,7 +5,7 @@
 
 ## 학습과정  
 간단한 리녹스 명령어.  
-03.06 ~ 03.17 파이썬 과정 마침. (차후 주말에 그동안 해왔던 과제 코드 분석 리드미 작성 예정.)
+03.06 ~ 03.17 파이썬 과정 마침. (차후 주말에 그동안 해왔던 과제 코드 분석 리드미 작성 예정.)  
 03.18 ~ 현재 데이터베이스 진행중.
 <!--
 **leejiyun1/leejiyun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
